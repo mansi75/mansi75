@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning and Computer Vision Project.
+ 🔭 I’m currently working on Machine Learning and Computer Vision Project.
 - 🌱 I’m currently learning Deep Learning and Data Structure. 
 - 👯 I’m looking to collaborate on Machine Learning and Image Processing Project.
 - 🤔 I’m looking for help with NLP.
