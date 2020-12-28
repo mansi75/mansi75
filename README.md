@@ -22,8 +22,6 @@ I am Mansi Maurya. My interest lies in Machine Learning,Deep Learning and Image 
 - 🤔 I’m looking for help with NLP.
 
 
-- 💬 Ask me about Machine Learning, Tensorflow or Deep Learning.
-
 
 - 📫 How to reach me: Contact me on my mail mansimaurya75@gmail.com
 
