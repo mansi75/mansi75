@@ -7,19 +7,19 @@ Here are some ideas to get you started:
 
 
 --> 
-I am Mansi Maurya. My interest lies in Machine Learning,Deep Learning and Image processing. I know how to work with Kaggle and I have done some projects in that too. I have a knack for learning new technologies.
+I am Mansi Maurya. My interest lies in Machine Learning,Deep Learning, Image processing and web devlopment. I know how to work with Kaggle and I have done some projects in that too. I have a knack for learning new technologies.
 
    
-- 🔭 I’m currently working on Machine Learning and Computer Vision Project.
+- 🔭 I’m currently working on deep learning and web devlopment.
 
 
-- 🌱 I’m currently learning Deep Learning and Data Structure. 
+- 🌱 I’m currently learning NLP and Data Structure. 
 
 
-- 👯 I’m looking to collaborate on Machine Learning and Image Processing Project.
+- 👯 I’m looking to collaborate on Machine Learning and Web devlopment Project.
 
 
-- 🤔 I’m looking for help with NLP.
+- 🤔 I’m looking for help with Backend devlopment.
 
 
 
