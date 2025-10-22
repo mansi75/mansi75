@@ -7,29 +7,11 @@ Here are some ideas to get you started:
 
 
 --> 
-I am Mansi Maurya. My interest lies in Machine Learning,Deep Learning, Image processing and web devlopment. I know how to work with Kaggle and I have done some projects in that too. I have a knack for learning new technologies.
+I’m Mansi Maurya
 
-   
-- 🔭 I’m currently working on deep learning and web devlopment.
+I’m a Software Developer and currently pursuing my Master’s in Advanced Software Development at TU Dublin. With 3 years of professional experience at Standard Chartered Bank, I’ve worked on designing, developing, and deploying backend systems that handle real-time, large-scale data. My work has given me a strong foundation in software architecture, system optimization, and problem-solving.
 
-
-- 🌱 I’m currently learning NLP and Data Structure. 
-
-
-- 👯 I’m looking to collaborate on Machine Learning and Web devlopment Project.
-
-
-- 🤔 I’m looking for help with Backend devlopment.
-
-
-
-- 📫 How to reach me: Contact me on my mail mansimaurya75@gmail.com
-
-
-- 😄 Pronouns: She.
-
-
-- ⚡ Fun fact: There is no limit for my screen time.
+I’m passionate about building scalable, impactful, and user-centric applications — from backend services to intelligent web platforms. My interests lie in the areas of machine learning, data-driven systems, and cloud-native applications.
 
 
 - my linkdin account: www.linkedin.com/in/mansi-maurya-639683183
